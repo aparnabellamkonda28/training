@@ -1,0 +1,12 @@
+Give me some idea on what is a Data type. What are Primitive Data types and Non-Primitive Data
+types. Explain with some examples.
+Datatype:-
+-> datatype used to metion what kind of data used in the variable.
+
+ Types of datatypes:-
+1.primitive datatype:- It can store single values.
+			->They are default.
+		Example:-String  , number , Boolean , null ,undefined
+2.Non-primitive datatype :- It can store multiple values.
+			-> They are user defined.
+		Example:- functions, arrays , objects
